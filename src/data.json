@@ -1,0 +1,86 @@
+[
+  {
+    "id": "1",
+    "city": "Londres",
+    "country": "Inglaterra",
+    "continent": "Europa",
+    "photo": "https://www.dicasdeviagem.com/wp-content/uploads/2019/07/tower-bridge-londres-1024x653.jpg"
+  },
+  {
+    "id": "2",
+    "city": "Londres",
+    "country": "Inglaterra",
+    "continent": "Europa",
+    "photo": "https://turistaprofissional.com/wp-content/uploads/2019/04/Big-Ben.jpg"
+  },
+  {
+    "id": "3",
+    "city": "Toronto",
+    "country": "Canadá",
+    "continent": "América do Norte",
+    "photo": "https://s204818.gridserver.com/wp-content/uploads/2017/11/Vista-da-cidade-de-Toronto.jpg"
+  },
+  {
+    "id": "4",
+    "city": "Itália",
+    "country": "Roma",
+    "continent": "Europa",
+    "photo": "https://st.depositphotos.com/1759109/5015/i/600/depositphotos_50157373-stock-photo-leaning-tower-of-pisa-italy.jpg"
+  },
+  {
+    "id": "5",
+    "city": "Paris",
+    "country": "França",
+    "continent": "Europe",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpLfgcbUI3mJJMIUy79oAMCGaQSo81b6q3OQ&usqp=CAU"
+  },
+  {
+    "id": "6",
+    "city": "Auburn",
+    "country": "Estados Unidos",
+    "continent": "América do Norte",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlDAuNrKVxQ652Loj5z3CkeVu6dLmKNzdJTg&usqp=CAU"
+  },
+  {
+    "id": "7",
+    "city": "Nova York",
+    "country": "Estados Unidos",
+    "continent": "América do Norte",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWVXBI49W5vjQTPu-wVi-OQ4vwznDZ1iy9hg&usqp=CAU"
+  },
+  {
+    "id": "8",
+    "city": "Miami",
+    "country": "Estados Unidos",
+    "continent": "América do Norte",
+    "photo": "https://i0.wp.com/www.vitoriarealty.com/blog/wp-content/uploads/2018/08/Curiosidades-de-Miami-e1535398524135.jpg?resize=612%2C500&ssl=1"
+  },
+  {
+    "id": "9",
+    "city": "New Orleans",
+    "country": "Estados Unidos",
+    "continent": "América do Norte",
+    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrkRC8LNclmJiW2nYuc2X1a3FH4LtuBZ8qjQ&usqp=CAU"
+  },
+  {
+    "id": "10",
+    "city": "Orlando",
+    "country": "Estados Unidos",
+    "continent": "América do Norte",
+    "photo": "https://c8y3s8d4.stackpathcdn.com/wp-content/uploads/2015/06/Ingressos-Parques-Disney-Orlando.jpg"
+  },
+  {
+    "id": "11",
+    "city": "Cancún",
+    "country": "México",
+    "continent": "América do Norte",
+    "photo": "https://a.cdn-hotels.com/gdcs/production188/d923/47643da8-6e46-4c83-8379-95b43b9e2684.jpg"
+  },
+  {
+    "id": "12",
+    "city": "Fernando de Noronha",
+    "country": "Brasil",
+    "continent": "América do Sul",
+    "photo": "https://www.melhoresdestinos.com.br/wp-content/uploads/2019/02/passagens-aereas-fernando-de-noronha-capa2019-01.jpg"
+  }
+]
